@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Pm66b+a8PnPmT4L6pUQihnghBcmO91ijw/4ZZv0fwhfFAKPoDhHKHFmDIjNdYpvo0H4zoVEcvufiXuhH2TODQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zafer\\source\\repos\\frtlec\\StackLink\\StackLink.WebApi\\StackLink.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zafer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\zafer\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
